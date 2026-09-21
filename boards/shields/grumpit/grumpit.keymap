@@ -138,7 +138,7 @@
             display-name = "Default Layer";
             bindings = <
                               &kp W        &kp E         &kp R                                   &kp U         &kp I        &kp O
-                &mt_h LSHFT A &mt_h LGUI S &mt_h LALT D  &mt_h LCTRL F &kp T           &kp Y     &mt_h RCTRL J &mt_h RALT K &mt_h LGUI L   &mt_h RSHFT ;
+                &mt_h LSHFT A &mt_h LGUI S &mt_h LALT D  &mt_h LCTRL F &kp T           &kp Y     &mt_h RCTRL J &mt_h RALT K &mt_h LGUI L   &mt_h RSHFT SEMI
                 &lt WIN_L Z   &lt FN_L X   &kp C         &kp V         &kp G           &kp H     &kp M         &kp COMMA    &lt FN_L DOT   &lt WIN_L FSLH
                                                                        &lt NUM_L SPC   &mo SYM_L 
             >;
@@ -148,7 +148,7 @@
             display-name = "Num";
             bindings = <
                                  &none         &none           &none                                  &none            &none            &none
-                &mt_h LSHFT EXCL &mt_h LGUI AT &mt_h LALT HASH &mt_h LCTRL DLLR &kp PRCNT   &kp CARET &mt_h RCTRL AMPS &mt_h RALT ASTRK &mt_h RGUI LPAR &mt_H RSHFT RPAR
+                &mt_h LSHFT EXCL &mt_h LGUI AT &mt_h LALT HASH &mt_h LCTRL DLLR &kp PRCNT   &kp CARET &mt_h RCTRL AMPS &mt_h RALT ASTRK &mt_h RGUI LPAR &mt_h RSHFT RPAR
                 &kp N1           &kp N2        &kp N3          &kp N4           &kp N5      &kp N6    &kp N7           &kp N8           &kp N9          &kp N0
                                                                                 &none       &mo CFG_L
             >;
